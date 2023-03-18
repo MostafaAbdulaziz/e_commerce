@@ -1,6 +1,10 @@
 import 'package:e_commerce/core/valiables.dart';
+import 'package:e_commerce/presentation_layer/screens/favorites_screen.dart';
 import 'package:e_commerce/presentation_layer/screens/main_screen.dart';
 import 'package:e_commerce/presentation_layer/screens/welcome_screen.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'core/colors_app.dart';
 import 'presentation_layer/controller/Cubit/main_cubit/main_cubit.dart';
 import 'presentation_layer/controller/Cubit/main_cubit/main_states.dart';
