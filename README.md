@@ -1,10 +1,7 @@
 # e_commerce
-
-A new Flutter project.
+Project UI : "https://drive.google.com/drive/folders/1jGvaYhT9yZ9vUDAtAKikeLEpqEqPoisY?usp=sharing"
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
